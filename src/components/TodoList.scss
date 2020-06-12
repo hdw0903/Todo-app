@@ -1,0 +1,6 @@
+.TodoList {
+  min-height: 320px;
+  max-height: 513px;
+  // TodoList 화면 넘칠 시 자동으로 스크롤 바 생성
+  overflow-y: auto;
+}
